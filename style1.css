@@ -1,0 +1,52 @@
+{
+    padding:0px 10px;
+}
+body{
+    border:10px solid color(srgb red green blue);
+}
+h1{
+    color:black;
+}
+h2{
+    color: blueviolet;
+    background-color: antiquewhite;
+}
+p{
+    color: blue;
+}
+.container{
+    line-height: 5px;
+
+}
+.objective{
+    color:black;
+}
+.personal{
+    line-height: 20px;
+}
+.education table{
+    width: 80%;
+    text-align: center;
+    border-collapse: collapse;
+    margin: 10px;
+}
+.education th{
+    color: brown;
+}
+.education td{
+    color: blue;
+}
+.sign{
+
+    padding-left: 80%;
+    line-height: 6px;
+}
+h3{
+    color: brown;
+}
+img{
+    display:flex;
+    text-align:2px ;
+    border-radius: 0%;
+    padding-right: 70%;
+}
